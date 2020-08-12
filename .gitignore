@@ -104,5 +104,4 @@ dist
 .tern-port
 
 # outputs folder
-.outputs/*
-.outputs
+.outputs/
