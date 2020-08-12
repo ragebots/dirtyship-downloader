@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "dirtyship video and gallery saver",
   "main": "app.js",
+  "bin": "app.js",
   "scripts": {
     "start": "node app.js"
   },
@@ -22,5 +23,8 @@
     "dom-parser": "^0.1.6",
     "node-fetch": "^2.6.0",
     "node-html-parser": "^1.2.20"
+  },
+  "pkg": {
+    
   }
 }
