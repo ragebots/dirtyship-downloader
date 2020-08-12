@@ -28,7 +28,7 @@ node app.js [url1] [url2]
 # Not a developer? Just want to run the script?
 ```
 1. Download the appropriate executable from "releases" folder
-2. Run
+2. Run commands like this
 ```
 On __Windows__,
 ```
