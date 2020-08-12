@@ -1,7 +1,7 @@
 # dirtyship-downloader
-Download dirtyship video and image galleries.
-Please note that, I neither own dirtyship.com nor do I endorse stealing contents.
-I am not responsible for you legally committing crime by using this tool.
+Download dirtyship video and image galleries.  
+__Please note that, I neither own dirtyship.com nor do I endorse stealing contents.__  
+__I am not responsible for you legally committing crime by using this tool.__  
 
 # Preparing the script  
 ```
