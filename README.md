@@ -29,11 +29,17 @@ node app.js [url1] [url2]
 ```
 1. Download the appropriate executable from "releases" folder
 2. Run
+```
 On __Windows__,
+```
 dirtyship-downloader-win.exe https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
+```
 On __Linux__,
+```
 dirtyship-downloader-linux https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
+```
 You may have to run **chmod a+x dirtyship-downloader-linux** before being able to run the above command
 On __Mac__,
+```
 dirtyship-downloader-mac https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
 ```
