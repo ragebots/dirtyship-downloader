@@ -4,7 +4,7 @@
   "description": "dirtyship video and gallery saver",
   "main": "app.js",
   "scripts": {
-    "run": "node app.js"
+    "start": "node app.js"
   },
   "keywords": [
     "dirtyship",
