@@ -105,3 +105,4 @@ dist
 
 # outputs folder
 .outputs/*
+.outputs
