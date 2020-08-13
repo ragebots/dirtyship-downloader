@@ -37,10 +37,10 @@ dirtyship-downloader-win.exe https://dirtyship.com/gallery/whitney-johns-nude-ph
 On __Linux__,
 ```
 chmod a+x dirtyship-downloader-linux
-dirtyship-downloader-linux https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
+./dirtyship-downloader-linux https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
 ```
 On __Mac__,
 ```
 chmod a+x dirtyship-downloader-mac
-dirtyship-downloader-mac https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
+./dirtyship-downloader-mac https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
 ```
