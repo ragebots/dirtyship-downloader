@@ -2,7 +2,6 @@ const CLA = require("./lib/cla");
 const DirtyShip = require("./lib/dirtyship");
 const fetch = require('node-fetch');
 const fs = require("fs");
-const { parse } = require('node-html-parser');
 const Utility = require("./lib/utility");
 
 // default output directory
@@ -63,6 +62,7 @@ try {
     const isGallery = DirtyShip.checkIfGalleryLink(contentHTML);
 
     if(isVideo) {
+
       // we have a video
       const videoFile = DirtyShip.getVideoDownloadInfo(contentHTML);
       // console.log(videoFile);
@@ -78,6 +78,7 @@ try {
       }
     }
     if(isGallery) {
+
       // we have an album of images
       const imageLinks = DirtyShip.getGalleryImageLinks(contentHTML);
       // console.log(imageLinks);

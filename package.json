@@ -20,11 +20,8 @@
   "dependencies": {
     "command-line-args": "^5.1.1",
     "command-line-usage": "^6.1.0",
-    "dom-parser": "^0.1.6",
-    "node-fetch": "^2.6.0",
-    "node-html-parser": "^1.2.20"
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.0"
   },
-  "pkg": {
-    
-  }
+  "pkg": {}
 }
