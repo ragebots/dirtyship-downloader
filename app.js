@@ -62,7 +62,7 @@ try {
     const isGallery = DirtyShip.checkIfGalleryLink(contentHTML);
 
     if(isVideo) {
-
+      // console.log("is video");
       // we have a video
       const videoFile = DirtyShip.getVideoDownloadInfo(contentHTML);
       // console.log(videoFile);
@@ -78,7 +78,7 @@ try {
       }
     }
     if(isGallery) {
-
+      // console.log("is album");
       // we have an album of images
       const imageLinks = DirtyShip.getGalleryImageLinks(contentHTML);
       // console.log(imageLinks);
