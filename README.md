@@ -27,7 +27,7 @@ node app.js [url1] [url2]
 
 # Not a developer? Just want to run the script?
 ```
-1. Download the appropriate executable from "releases" folder
+1. Download the appropriate executable for your OS from https://github.com/sunaram/dirtyship-downloader/releases  
 2. Run commands like this
 ```
 On __Windows__,
@@ -36,11 +36,11 @@ dirtyship-downloader-win.exe https://dirtyship.com/gallery/whitney-johns-nude-ph
 ```
 On __Linux__,
 ```
-chmod a+x dirtyship-downloader-linux
-./dirtyship-downloader-linux https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
+1. chmod a+x dirtyship-downloader-linux
+2. ./dirtyship-downloader-linux https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
 ```
 On __Mac__,
 ```
-chmod a+x dirtyship-downloader-mac
-./dirtyship-downloader-mac https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
+1. chmod a+x dirtyship-downloader-mac
+2. ./dirtyship-downloader-mac https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
 ```

@@ -108,3 +108,6 @@ dist
 .outputs
 outputs/
 outputs
+
+# releases folder
+releases/
