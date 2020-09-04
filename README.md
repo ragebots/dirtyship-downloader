@@ -43,4 +43,8 @@ On __Mac__,
 ```
 1. chmod a+x dirtyship-downloader-mac
 2. ./dirtyship-downloader-mac https://dirtyship.com/gallery/whitney-johns-nude-photos-leaked/
-```
+```  
+
+# Hire me at Upwork
+https://www.upwork.com/freelancers/~01792d97e7fdb01530  
+(profile only visible to logged in upwork users)
