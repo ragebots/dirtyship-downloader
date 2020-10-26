@@ -1,6 +1,6 @@
 {
   "name": "dirtyship-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dirtyship video and gallery saver",
   "main": "app.js",
   "bin": "app.js",
